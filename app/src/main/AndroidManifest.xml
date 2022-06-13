@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.DivisionPayApp">
         <activity
+            android:name=".ShoppingDetails"
+            android:exported="false" />
+        <activity
             android:name=".AddMember"
             android:exported="false" />
         <activity
